@@ -2,4 +2,5 @@ title: "Q's Data Analyst Portfolio"
 logo: "assets/img/pro_pic.png"
 show_downloads: false
 theme: "jekyll-theme-minimal"
-description: "Welcome to my Data Analyst portfolio! This repository contains three data analysis projects from different industries: Lego, Pharma, and Fintech. Each project includes data acquisition, data preparation, data analytics, and data visualization using Python."
+#description: 
+#output_dir:
