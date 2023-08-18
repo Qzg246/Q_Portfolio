@@ -58,7 +58,3 @@ By using a combination of applicant data and financial indicators, I developed a
 ## Tools Used
 - Python for data acquisition, preparation, analytics, and visualization.
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn.
-
-Feel free to explore each project's folder for detailed code, analysis, and visualization notebooks. If you have any questions or feedback, don't hesitate to contact me!
-
-Happy analyzing!
