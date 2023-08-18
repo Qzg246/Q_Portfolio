@@ -1,5 +1,5 @@
 # Welcome to my Data Analyst portfolio! 
-##This repository contains 3 data analysis projects from different industries: Lego, Pharma, and Fintech. Each project includes data acquisition, data preparation, data analytics, and data visualization using Python.
+This repository contains 3 data analysis projects from different industries: Lego, Pharma, and Fintech. Each project includes data acquisition, data preparation, data analytics, and data visualization using Python.
 
 ## Project 1: Lego Sales Analysis
 
