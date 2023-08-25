@@ -1,7 +1,7 @@
 ## Project 1: Lego themes
 
 ### Overview
-In this project, I analyzed sales data from a Lego store to provide insights into product popularity and customer behavior.
+In this project, I examined various Lego sets to gain insights into the most popular Lego themes.
 
 ![Lego themes](assets/img/Lego themes.png)
 
