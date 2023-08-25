@@ -3,7 +3,7 @@
 ### Overview
 In this project, I analyzed sales data from a Lego store to provide insights into product popularity and customer behavior.
 
-![Alt text]('assets/img/Lego themes.png')
+![Lego themes](assets/img/Lego themes.png)
 
 #### Reference Data Resource
 - Lego Sales Dataset: [Kaggle](link_to_dataset)
@@ -13,7 +13,7 @@ In this project, I analyzed sales data from a Lego store to provide insights int
 ### Overview
 In this project, I the popularity of different programming languages throughout the history.
 
-![Alt text]('assets/img/Popularity of languages.png')
+![Popularity of languages](assets/img/Popularity of languages.png)
 
 #### Reference Data Resource
 - Programming Languages Dataset: [Kaggle](link_to_dataset)
@@ -23,7 +23,7 @@ In this project, I the popularity of different programming languages throughout 
 ### Overview
 In this project, I worked on a Nobel Prize analysis by counties, aiming to categorise the prize winners by countries.
 
-![Alt text]('assets/img/Nobel prize by birth countries.png')
+![Nobel prize by birth countries](assets/img/Nobel prize by birth countries.png)
 
 #### Reference Data Resource
 - Nobel Prize Winners: [Kaggle](link_to_dataset)
