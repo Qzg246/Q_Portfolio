@@ -11,7 +11,7 @@ In this project, I examined various Lego sets to gain insights into the most pop
 ## Project 2: Popularity of Programming Languages
 
 ### Overview
-In this project, I the popularity of different programming languages throughout the history.
+In this project, I analyzed the popularity of different programming languages throughout history.
 
 ![Popularity of languages](assets/img/Popularity of languages.png)
 
@@ -21,7 +21,7 @@ In this project, I the popularity of different programming languages throughout 
 ## Project 3: Nobel Prize Winner by Countries
 
 ### Overview
-In this project, I worked on a Nobel Prize analysis by counties, aiming to categorise the prize winners by countries.
+In this project, I worked on a Nobel Prize analysis by countries, aiming to categorize the prize winners by country.
 
 ![Nobel prize by birth countries](assets/img/Nobel prize by birth countries.png)
 
