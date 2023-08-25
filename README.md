@@ -1,62 +1,32 @@
-# Welcome to my Data Analyst portfolio! 
-This repository contains 3 data analysis projects from different industries: Lego, Pharma, and Fintech. Each project includes data acquisition, data preparation, data analytics, and data visualization using Python.
-
-## Project 1: Lego Sales Analysis
+## Project 1: Lego themes
 
 ### Overview
 In this project, I analyzed sales data from a Lego store to provide insights into product popularity and customer behavior.
 
-#### Conclusions
-I found that certain product categories had higher sales, indicating customer preferences. Additionally, sales were influenced by seasonal trends, with spikes around holidays.
-
-#### Challenges
-- Dealing with missing data in the dataset required careful consideration of data imputation techniques.
-- Combining data from multiple sources with different structures posed integration challenges.
-
-#### Cool Techniques
-- Utilized hierarchical clustering to identify customer segments based on their purchasing behavior.
-- Implemented time series decomposition to uncover underlying patterns in sales data.
+![Alt text]('assets/img/Lego themes.png')
 
 #### Reference Data Resource
-- Lego Sales Dataset: [Dataset Link](link_to_dataset)
+- Lego Sales Dataset: [Kaggle](link_to_dataset)
 
-## Project 2: Pharma Drug Analysis
+## Project 2: Popularity of Programming Languages
 
 ### Overview
-In this project, I analyzed pharmaceutical drug data to understand the efficacy and safety of various drugs.
+In this project, I the popularity of different programming languages throughout the history.
 
-#### Conclusions
-I discovered that certain drugs exhibited higher success rates in treating specific medical conditions. Adverse reactions were also correlated with certain drug combinations.
-
-#### Challenges
-- Handling incomplete and unstructured data required thorough data cleaning and normalization.
-- Dealing with imbalanced datasets in adverse reactions analysis needed careful consideration of sampling techniques.
-
-#### Cool Techniques
-- Applied Natural Language Processing (NLP) techniques to extract insights from text-based drug reviews.
-- Employed classification algorithms to predict adverse reactions based on drug attributes.
+![Alt text]('assets/img/Popularity of languages.png')
 
 #### Reference Data Resource
-- Pharma Drug Dataset: [Dataset Link](link_to_dataset)
+- Programming Languages Dataset: [Kaggle](link_to_dataset)
 
-## Project 3: Fintech Credit Scoring
+## Project 3: Nobel Prize Winner by Countries
 
 ### Overview
-In this project, I worked on a credit scoring analysis for a fintech company, aiming to predict the creditworthiness of applicants.
+In this project, I worked on a Nobel Prize analysis by counties, aiming to categorise the prize winners by countries.
 
-#### Conclusions
-By using a combination of applicant data and financial indicators, I developed a credit scoring model that effectively predicted the likelihood of default.
-
-#### Challenges
-- Dealing with imbalanced data distribution required implementing techniques like SMOTE for better model performance.
-- Feature engineering to create relevant indicators for credit risk assessment was a critical step.
-
-#### Cool Techniques
-- Employed feature scaling and transformation to handle numerical and categorical data effectively.
-- Utilized ensemble techniques like Random Forest to improve the predictive power of the credit scoring model.
+![Alt text]('assets/img/Nobel prize by birth countries.png')
 
 #### Reference Data Resource
-- Fintech Credit Dataset: [Dataset Link](link_to_dataset)
+- Nobel Prize Winners: [Kaggle](link_to_dataset)
 
 ## Tools Used
 - Python for data acquisition, preparation, analytics, and visualization.
